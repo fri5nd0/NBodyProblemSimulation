@@ -6,4 +6,6 @@ You can add Planets etc in the main function and then edit 'planets' vector to i
 
 Add more txt files etc. in the main function.
 
-Edit plot file to include the other planet.
+compile then execute the executable.
+
+Edit plot file to include the more or less txts in the plot animation
