@@ -120,7 +120,7 @@ public:
 
 int main() {
 
-    bool use_rk4 = false;
+    bool use_rk4 = true;
 
     double m = 1e23;
     double r = 10.0;
